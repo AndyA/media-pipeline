@@ -1,0 +1,22 @@
+NAME
+    Media::Pipeline - Media processing pipelines
+
+VERSION
+    This document describes Media::Pipeline version 0.01
+
+SYNOPSIS
+      use Media::Pipeline;
+
+DESCRIPTION
+INTERFACE
+DEPENDENCIES
+AUTHOR
+    Andy Armstrong "<andy@hexten.net>"
+
+LICENCE AND COPYRIGHT
+    Copyright (c) 2011, Andy Armstrong "<andy@hexten.net>". All rights
+    reserved.
+
+    This module is free software; you can redistribute it and/or modify it
+    under the same terms as Perl itself. See perlartistic.
+
