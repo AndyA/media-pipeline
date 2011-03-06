@@ -1,10 +1,14 @@
 Build.PL
 Changes
-inc/MyBuilder.pm
-lib/Media/Pipeline.pm
 MANIFEST
 META.yml
+README
+inc/MyBuilder.pm
+lib/Media/Pipeline.pm
+lib/Media/Pipeline/Input.pm
+lib/Media/Pipeline/Node.pm
+lib/Media/Pipeline/Output.pm
+lib/Media/Pipeline/Role/File.pm
 t/00-load.t
 t/pod-coverage.t
 t/pod.t
-README
