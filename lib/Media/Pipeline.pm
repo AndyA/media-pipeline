@@ -1,12 +1,10 @@
 package Media::Pipeline;
 
-use warnings;
-use strict;
+use Moose;
 
 use Carp qw( croak );
-use Path::Class;
 
-our $VERSION = '0.04';
+our $VERSION = '0.01';
 
 =head1 NAME
 
@@ -14,7 +12,7 @@ Media::Pipeline - Media processing pipelines
 
 =head1 VERSION
 
-This document describes Media::Pipeline version 0.04
+This document describes Media::Pipeline version 0.01
 
 =head1 SYNOPSIS
 
